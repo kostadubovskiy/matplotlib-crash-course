@@ -1,2 +1,2 @@
 # matplotlib-crash-course
-Learning Matplotlib basics/intermediate content.
+Learning Matplotlib with FreeCodeCamp Crash Course.
